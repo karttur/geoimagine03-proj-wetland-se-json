@@ -5,8 +5,8 @@ categories: projects
 excerpt:  tile 1 m ditch to sweref 
 tags:: 
     - 0180_Tileprojsysregion_slu-diken.json
-date: 2022-04-20
-modified: 2022-04-20
+date: 2022-04-21
+modified: 2022-04-21
 comments: true
 share: true
 ---
@@ -15,7 +15,7 @@ share: true
 
 ##  tile 1 m ditch to sweref 
 
-The json command file <span class='file'>0180_Tileprojsysregion_slu-diken.json</span> is part of Karttur's GeoImagine project <span class='project'>projects</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
+The json command file <span class='file'>0180_Tileprojsysregion_slu-diken.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
 ```
 {

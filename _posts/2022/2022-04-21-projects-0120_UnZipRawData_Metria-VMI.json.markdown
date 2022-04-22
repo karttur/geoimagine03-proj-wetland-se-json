@@ -1,21 +1,21 @@
 ---
 layout: article
-title: 0120_UnZipRawData_SMHI-SVAR.json
+title: 0120_UnZipRawData_Metria-VMI.json
 categories: projects
-excerpt:  UnZip SMHI SVAR data 
+excerpt:  Unzip Metria VMI datasets 
 tags:: 
-    - 0120_UnZipRawData_SMHI-SVAR.json
-date: 2022-04-20
-modified: 2022-04-20
+    - 0120_UnZipRawData_Metria-VMI.json
+date: 2022-04-21
+modified: 2022-04-21
 comments: true
 share: true
 ---
 
-# 0120 UnZipRawData SMHI SVAR.json (projects)
+# 0120 UnZipRawData Metria VMI.json (projects)
 
-##  UnZip SMHI SVAR data 
+##  Unzip Metria VMI datasets 
 
-The json command file <span class='file'>0120_UnZipRawData_SMHI-SVAR.json</span> is part of Karttur's GeoImagine project <span class='project'>projects</span>. Calling the json file will execute the following commands of the GeoImagine Framework.
+The json command file <span class='file'>0120_UnZipRawData_Metria-VMI.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
 ```
 {
@@ -35,8 +35,8 @@ The json command file <span class='file'>0120_UnZipRawData_SMHI-SVAR.json</span>
       "processid": "UnZipRawData",
       "overwrite": false,
       "parameters": {
-        "srcdir": "DOWNLOADS/SMHI/SVAR/data",
-        "dstdir": "DOWNLOADS/SMHI/SVAR/data",
+        "srcdir": "DOWNLOADS/Metria/VMI/data",
+        "dstdir": "DOWNLOADS/Metria/VMI/data",
         "getlist": "oswalk",
         "pattern": "*",
         "zipreplace": ".*",
