@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0125_MosaicAncillary_metria-DEM.json
-categories: projects
+categories: sewetland
 excerpt:  Mosaic DEM 
 tags:: 
-    - 0125_MosaicAncillary_metria-DEM.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0125_MosaicAncillary_metria-DEM
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0125 MosaicAncillary metria DEM.json (projects)
+# 0125 MosaicAncillary metria DEM (projects)
 
 ##  Mosaic DEM 
 
@@ -41,11 +41,11 @@ The json command file <span class='file'>0125_MosaicAncillary_metria-DEM.json</s
         "srcdir": "DOWNLOADS/Metria/DEM2m/data"
       },
       "srcpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "dstpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "dstcomp": [

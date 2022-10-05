@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0115-download-Metria-markdata.json
-categories: projects
+categories: sewetland
 excerpt:  Download Metria base layers 
 tags:: 
-    - 0115-download-Metria-markdata.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0115-download-Metria-markdata
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0115 download Metria markdata.json (projects)
+# 0115 download Metria markdata (projects)
 
 ##  Download Metria base layers 
 
@@ -40,10 +40,10 @@ The json command file <span class='file'>0115-download-Metria-markdata.json</spa
         "datadir": "DOWNLOADS/Metria/markdata/data"
       },
       "srcpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       },
       "dstpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       }
     }
   ]

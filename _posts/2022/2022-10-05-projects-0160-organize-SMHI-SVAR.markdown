@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0160-organize-SMHI-SVAR.json
-categories: projects
+categories: sewetland
 excerpt:  Organize SMHI SVAR data 
 tags:: 
-    - 0160-organize-SMHI-SVAR.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160-organize-SMHI-SVAR
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 organize SMHI SVAR.json (projects)
+# 0160 organize SMHI SVAR (projects)
 
 ##  Organize SMHI SVAR data 
 
@@ -49,11 +49,11 @@ The json command file <span class='file'>0160-organize-SMHI-SVAR.json</span> is 
         "label": "SWEREF99 Svenskt VattenArkriv"
       },
       "srcpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "dstpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "srcraw": [

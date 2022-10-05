@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0160-organize-Metria-NMD.json
-categories: projects
+categories: sewetland
 excerpt:  Organize Metria NMD 
 tags:: 
-    - 0160-organize-Metria-NMD.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160-organize-Metria-NMD
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 organize Metria NMD.json (projects)
+# 0160 organize Metria NMD (projects)
 
 ##  Organize Metria NMD 
 
@@ -51,11 +51,11 @@ The json command file <span class='file'>0160-organize-Metria-NMD.json</span> is
         "label": "SWEREF99 Nationella Marktäckesdata"
       },
       "srcpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "dstpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "srcraw": [

@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0199-Linkdefaultregiontiles-sweref.json
-categories: projects
+categories: sewetland
 excerpt:  Link Sweden national boundary to project default tiles
 tags:: 
-    - 0199-Linkdefaultregiontiles-sweref.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0199-Linkdefaultregiontiles-sweref
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0199 Linkdefaultregiontiles sweref.json (projects)
+# 0199 Linkdefaultregiontiles sweref (projects)
 
 ##  Link Sweden national boundary to project default tiles
 

@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0160_Organizeprojsys_slu-diken.json
-categories: projects
+categories: sewetland
 excerpt:  Import 1 m ditch tiles 
 tags:: 
-    - 0160_Organizeprojsys_slu-diken.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160_Organizeprojsys_slu-diken
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 Organizeprojsys slu diken.json (projects)
+# 0160 Organizeprojsys slu diken (projects)
 
 ##  Import 1 m ditch tiles 
 
@@ -49,11 +49,11 @@ The json command file <span class='file'>0160_Organizeprojsys_slu-diken.json</sp
         "label": "SWEREF99 diken 1m SLU"
       },
       "srcpath": {
-        "volume": "Ancillary",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "dstpath": {
-        "volume": "Ancillary",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "srcraw": [

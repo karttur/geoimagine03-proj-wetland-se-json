@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0160-organize-Metria-VMI_replace.json
-categories: projects
+categories: sewetland
 excerpt:  Organize Metria VMI 
 tags:: 
-    - 0160-organize-Metria-VMI_replace.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160-organize-Metria-VMI_replace
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 organize Metria VMI replace.json (projects)
+# 0160 organize Metria VMI replace (projects)
 
 ##  Organize Metria VMI 
 
@@ -51,11 +51,11 @@ The json command file <span class='file'>0160-organize-Metria-VMI_replace.json</
         "replacetag": "county"
       },
       "srcpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "dstpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "county": {

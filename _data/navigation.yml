@@ -8,8 +8,16 @@
    url: /
    include: N
 
--  title: SwedenWetlands
+-  title: project blog
    url: https://karttur.github.io/geoimagine03-proj-wetland-se/index.html
+   include: N
+
+-  title: json commands
+   url: /
+   include: N
+
+-  title: sewetland
+   url: /sewetland/
    include: N
 
 -  title: Search

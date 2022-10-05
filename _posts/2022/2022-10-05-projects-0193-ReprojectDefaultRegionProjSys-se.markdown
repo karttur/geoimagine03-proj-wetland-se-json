@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0193-ReprojectDefaultRegionProjSys-se.json
-categories: projects
+categories: sewetland
 excerpt:  Import Sweden national boundaries by reprojection from system default **
 tags:: 
-    - 0193-ReprojectDefaultRegionProjSys-se.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0193-ReprojectDefaultRegionProjSys-se
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0193 ReprojectDefaultRegionProjSys se.json (projects)
+# 0193 ReprojectDefaultRegionProjSys se (projects)
 
 ##  Import Sweden national boundaries by reprojection from system default **
 

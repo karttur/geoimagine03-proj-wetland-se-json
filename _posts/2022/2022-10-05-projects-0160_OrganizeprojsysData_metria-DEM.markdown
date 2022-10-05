@@ -1,21 +1,21 @@
 ---
 layout: article
-title: 0160_Organizeprojsys_metria-DEM.json
-categories: projects
+title: 0160_OrganizeprojsysData_metria-DEM.json
+categories: sewetland
 excerpt:  Import DEM tiles 
 tags:: 
-    - 0160_Organizeprojsys_metria-DEM.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160_OrganizeprojsysData_metria-DEM
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 Organizeprojsys metria DEM.json (projects)
+# 0160 OrganizeprojsysData metria DEM (projects)
 
 ##  Import DEM tiles 
 
-The json command file <span class='file'>0160_Organizeprojsys_metria-DEM.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
+The json command file <span class='file'>0160_OrganizeprojsysData_metria-DEM.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
 ```
 {
@@ -49,11 +49,11 @@ The json command file <span class='file'>0160_Organizeprojsys_metria-DEM.json</s
         "label": "SWEREF99 DEM 2m Metria"
       },
       "srcpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "dstpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "srcraw": [

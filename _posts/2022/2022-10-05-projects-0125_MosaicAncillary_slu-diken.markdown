@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0125_MosaicAncillary_slu-diken.json
-categories: projects
+categories: sewetland
 excerpt:  Mosaic 1 m ditch tiles 
 tags:: 
-    - 0125_MosaicAncillary_slu-diken.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0125_MosaicAncillary_slu-diken
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0125 MosaicAncillary slu diken.json (projects)
+# 0125 MosaicAncillary slu diken (projects)
 
 ##  Mosaic 1 m ditch tiles 
 
@@ -39,11 +39,11 @@ The json command file <span class='file'>0125_MosaicAncillary_slu-diken.json</sp
         "srcdir": "DOWNLOADS/skogsstyrelsen/opendata/DikenRaster_1m/image"
       },
       "srcpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "dstpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "dstcomp": [

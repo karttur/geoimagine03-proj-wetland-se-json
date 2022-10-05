@@ -1,19 +1,19 @@
 ---
 layout: article
 title: 0115-download-Metria-VMI.json
-categories: projects
-excerpt:  Download Metria Svenska Våtmarksinventeringen (VMI) 
+categories: sewetland
+excerpt:  Download Metria Svenska Vatmarksinventeringen (VMI) 
 tags:: 
-    - 0115-download-Metria-VMI.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0115-download-Metria-VMI
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0115 download Metria VMI.json (projects)
+# 0115 download Metria VMI (projects)
 
-##  Download Metria Svenska Våtmarksinventeringen (VMI) 
+##  Download Metria Svenska Vatmarksinventeringen (VMI) 
 
 The json command file <span class='file'>0115-download-Metria-VMI.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
@@ -40,10 +40,10 @@ The json command file <span class='file'>0115-download-Metria-VMI.json</span> is
         "datadir": "DOWNLOADS/Metria/VMI/data"
       },
       "srcpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       },
       "dstpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       }
     }
   ]

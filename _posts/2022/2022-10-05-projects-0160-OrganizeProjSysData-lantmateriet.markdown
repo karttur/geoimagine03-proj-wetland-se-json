@@ -1,21 +1,21 @@
 ---
 layout: article
-title: 0160-organiseprojsys-lantmateriet.json
-categories: projects
-excerpt: 
+title: 0160-OrganizeProjSysData-lantmateriet.json
+categories: sewetland
+excerpt:  Organize Lantmaeteriet data 
 tags:: 
-    - 0160-organiseprojsys-lantmateriet.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0160-OrganizeProjSysData-lantmateriet
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0160 organiseprojsys lantmateriet.json (projects)
+# 0160 OrganizeProjSysData lantmateriet (projects)
 
-## 
+##  Organize Lantmaeteriet data 
 
-The json command file <span class='file'>0160-organiseprojsys-lantmateriet.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
+The json command file <span class='file'>0160-OrganizeProjSysData-lantmateriet.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
 ```
 {
@@ -49,11 +49,11 @@ The json command file <span class='file'>0160-organiseprojsys-lantmateriet.json<
         "label": "SWEREF99 grid oversiktskarta"
       },
       "srcpath": {
-        "volume": "Ancillary",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "dstpath": {
-        "volume": "Ancillary",
+        "volume": "sewetland",
         "hdr": "shp"
       },
       "srcraw": [

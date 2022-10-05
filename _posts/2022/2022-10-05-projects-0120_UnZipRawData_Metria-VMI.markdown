@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0120_UnZipRawData_Metria-VMI.json
-categories: projects
+categories: sewetland
 excerpt:  Unzip Metria VMI datasets 
 tags:: 
-    - 0120_UnZipRawData_Metria-VMI.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0120_UnZipRawData_Metria-VMI
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0120 UnZipRawData Metria VMI.json (projects)
+# 0120 UnZipRawData Metria VMI (projects)
 
 ##  Unzip Metria VMI datasets 
 
@@ -46,11 +46,11 @@ The json command file <span class='file'>0120_UnZipRawData_Metria-VMI.json</span
         "maxlat": 90
       },
       "srcpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "zip"
       },
       "dstpath": {
-        "volume": "GeoImg2021",
+        "volume": "sewetland",
         "hdr": "*"
       }
     }

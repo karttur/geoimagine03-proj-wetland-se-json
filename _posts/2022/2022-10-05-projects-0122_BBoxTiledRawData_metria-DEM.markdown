@@ -1,19 +1,19 @@
 ---
 layout: article
 title: 0122_BBoxTiledRawData_metria-DEM.json
-categories: projects
-excerpt:  Create vector bounding boxes for the 2 m DEM tiles
+categories: sewetland
+excerpt:  Create vector bounding boxes for the 2 m DEM tiles 
 tags:: 
-    - 0122_BBoxTiledRawData_metria-DEM.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0122_BBoxTiledRawData_metria-DEM
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0122 BBoxTiledRawData metria DEM.json (projects)
+# 0122 BBoxTiledRawData metria DEM (projects)
 
-##  Create vector bounding boxes for the 2 m DEM tiles
+##  Create vector bounding boxes for the 2 m DEM tiles 
 
 The json command file <span class='file'>0122_BBoxTiledRawData_metria-DEM.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
@@ -42,11 +42,11 @@ The json command file <span class='file'>0122_BBoxTiledRawData_metria-DEM.json</
         "dstdir": "DOWNLOADS/METRIA/DEM2m/tiles"
       },
       "srcpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "dstpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "shp"
       }
     }

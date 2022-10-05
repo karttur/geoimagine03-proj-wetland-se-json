@@ -1,21 +1,21 @@
 ---
 layout: article
-title: 0180_Tileprojsysregion_metria-DEM_10m-mean.json
-categories: projects
-excerpt:  tile to 10 m average of 25 cells
+title: 0180_TileProjSysRegion_metria-DEM_10m-mean.json
+categories: sewetland
+excerpt:  Tile DEM to sweref while resampling to m average resolution 
 tags:: 
-    - 0180_Tileprojsysregion_metria-DEM_10m-mean.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0180_TileProjSysRegion_metria-DEM_10m-mean
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0180 Tileprojsysregion metria DEM 10m mean.json (projects)
+# 0180 TileProjSysRegion metria DEM 10m mean (projects)
 
-##  tile to 10 m average of 25 cells
+##  Tile DEM to sweref while resampling to m average resolution 
 
-The json command file <span class='file'>0180_Tileprojsysregion_metria-DEM_10m-mean.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
+The json command file <span class='file'>0180_TileProjSysRegion_metria-DEM_10m-mean.json</span> is part of Karttur's GeoImagine project [<span class='project'>SwedenWetlands</span>](https://karttur.github.io/geoimagine03-proj-wetland-se/index.html). For details on the commands see the blog on [Framework Processes](https://karttur.github.io/geoimagine03-docs-procpack/).
 
 ```
 {
@@ -43,11 +43,11 @@ The json command file <span class='file'>0180_Tileprojsysregion_metria-DEM_10m-m
         "asscript": true
       },
       "srcpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "vrt"
       },
       "dstpath": {
-        "volume": "Arctic2021",
+        "volume": "sewetland",
         "hdr": "tif"
       },
       "srccomp": [

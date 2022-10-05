@@ -1,17 +1,17 @@
 ---
 layout: article
 title: 0115-download-SMHI-SVAR.json
-categories: projects
+categories: sewetland
 excerpt:  Download SMHI SVAR data 
 tags:: 
-    - 0115-download-SMHI-SVAR.json
-date: 2022-04-21
-modified: 2022-04-21
+    - 0115-download-SMHI-SVAR
+date: 2022-10-05
+modified: 2022-10-05
 comments: true
 share: true
 ---
 
-# 0115 download SMHI SVAR.json (projects)
+# 0115 download SMHI SVAR (projects)
 
 ##  Download SMHI SVAR data 
 
@@ -40,10 +40,10 @@ The json command file <span class='file'>0115-download-SMHI-SVAR.json</span> is 
         "datadir": "DOWNLOADS/SMHI/SVAR/data"
       },
       "srcpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       },
       "dstpath": {
-        "volume": "GeoImg2021"
+        "volume": "sewetland"
       }
     }
   ]
